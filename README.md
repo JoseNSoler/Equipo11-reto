@@ -1,7 +1,7 @@
 # Equipo11-reto
 
 Programa para SofkaX que prueba diferente subrutinas para un procesador. El programa fue realizado en java, utilizando el IDE IntelliJ. Cada clase con sus respectivos
-métodos vienen con una breve documentación para un mejor entendimiento del código
+métodos vienen con una breve documentación para un mejor entendimiento del código y se encuentra en la rama master
 
 La CPU tiene 43 registros de enteros sin signo representados en 32-bit, los cuales son nombrados R00..R42. Al inicio del programa todos los registros contienen 0. 
 El procesador soporta las siguientes instrucciones:
